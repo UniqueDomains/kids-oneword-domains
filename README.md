@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .KIDS one-word domains still available to buy.
 
-This dataset contains 4,756 .KIDS one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,120 .KIDS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.KIDS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=description.top) (4,756) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.KIDS one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/kids-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.csv"><b>⬇️ CSV (4.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.json"><b>⬇️ JSON (4.76K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.csv"><b>⬇️ CSV (5.12K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.json"><b>⬇️ JSON (5.12K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar   | Created          | Expires          |
 | --------------- | --------- | -------- | ------ | ------ | ----------- | ---------------- | ---------------- |
-| aaron.kids      | available | 88       | 32%    | 5      |             |                  |                  |
+| aaron.kids      | available | 88       | 28%    | 5      |             |                  |                  |
 | abactinal.kids  | available | 50       | 1%     | 9      |             |                  |                  |
 | abaft.kids      | available | 43       | 2%     | 5      |             |                  |                  |
 | abandoned.kids  | available | 58       | 7%     | 9      |             |                  |                  |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.KIDS one word domains
 | abatic.kids     | available | 54       | 2%     | 6      |             |                  |                  |
 | abaxial.kids    | available | 54       | 2%     | 7      |             |                  |                  |
 | abbatial.kids   | available | 50       | 1%     | 8      |             |                  |                  |
-| abc.kids        | resell    | 102      | 41%    | 3      | Dynadot Inc | 02/03/2025 11:31 | 02/03/2026 11:31 |
+| abc.kids        | resell    | 102      | 39%    | 3      | Dynadot Inc | 02/03/2025 11:31 | 02/03/2026 11:31 |
 | abdicable.kids  | available | 50       | 1%     | 9      |             |                  |                  |
 | abdominal.kids  | available | 82       | 5%     | 9      |             |                  |                  |
 | abdominous.kids | available | 56       | 1%     | 10     |             |                  |                  |
@@ -43,19 +43,19 @@ If you want to search & filters the complete database of [.KIDS one word domains
 | aberrant.kids   | premium   | 74       | 7%     | 8      |             |                  |                  |
 | abeyant.kids    | available | 56       | 2%     | 7      |             |                  |                  |
 | abhorrent.kids  | premium   | 54       | 3%     | 9      |             |                  |                  |
+| abide.kids      | available | 94       | 15%    | 5      |             |                  |                  |
 | abiding.kids    | available | 106      | 5%     | 7      |             |                  |                  |
 | abient.kids     | available | 54       | 1%     | 6      |             |                  |                  |
-| ability.kids    | available | 92       | 18%    | 7      |             |                  |                  |
-| abit.kids       | available | 66       | 16%    | 5      |             |                  |                  |
+| ability.kids    | available | 92       | 16%    | 7      |             |                  |                  |
+| abit.kids       | available | 66       | 12%    | 5      |             |                  |                  |
 | abject.kids     | premium   | 94       | 8%     | 6      |             |                  |                  |
 | abkhas.kids     | available | 68       | 1%     | 6      |             |                  |                  |
 | abkhasian.kids  | available | 78       | 1%     | 9      |             |                  |                  |
-| abkhaz.kids     | available | 82       | 2%     | 6      |             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/kids-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.csv"><b>⬇️ CSV (4.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.json"><b>⬇️ JSON (4.76K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.csv"><b>⬇️ CSV (5.12K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/kids-oneword-domains/blob/main/kids.json"><b>⬇️ JSON (5.12K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.KIDS one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

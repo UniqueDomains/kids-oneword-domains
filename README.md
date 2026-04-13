@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .kids one-word domains from Unique
 
 **Public extract:** 9,530 rows · **Live catalog:** 9,530 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/kids`  
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | good.kids       | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.  |
 | ace.kids        | premium   | $1,000    | $22.50        | 88             | 57     | 3      | name.com         |
 | adaptive.kids   | available | $9.99     | $33.99        | 76             | 32     | 8      | name.com         |
-| alpha.kids      | resell    | —         | —             | 90             | 54     | 5      | NameCheap, Inc.  |
+| alpha.kids      | resell    | —         | —             | 90             | 53     | 5      | NameCheap, Inc.  |
 | data.kids       | premium   | $390      | $23.40        | 70             | 56     | 4      | namecheap        |
 | okay.kids       | available | $9.99     | $33.99        | 146            | 31     | 4      | name.com         |
 | buy.kids        | resell    | —         | —             | 84             | 53     | 3      | Spaceship, Inc.  |
 | zero.kids       | premium   | $375      | $22.50        | 112            | 53     | 4      | name.com         |
 | consulting.kids | available | $29.98    | —             | 72             | 30     | 10     | namecheap        |
-| love.kids       | resell    | —         | —             | 86             | 52     | 4      | Dynadot Inc      |
+| love.kids       | resell    | —         | —             | 86             | 51     | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

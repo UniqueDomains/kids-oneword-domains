@@ -10,7 +10,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00f6bc00-c891-4083-acc0-6c2719039788,types.kids,available,9.99,,54,14,5,name.com,,
 010b2c62-f1b4-42ce-ba21-b2d97299e05c,midafternoon.kids,premium,62.5,,80,1,12,name.com,,
 0110e42a-94b9-49d2-9ad3-cc3db623fbf6,runners.kids,available,9.99,,78,16,7,name.com,,
-014b8e09-8a60-4380-9412-123e2179d1f0,buy.kids,resell,,,84,53,3,"Spaceship, Inc.",30/11/2022 06:46,30/11/2026 06:46
+014b8e09-8a60-4380-9412-123e2179d1f0,buy.kids,resell,,,84,54,3,"Spaceship, Inc.",30/11/2022 06:46,30/11/2026 06:46
 01c910f8-a56f-49ba-ab3c-44f00d0a48e6,twits.kids,available,6.79,19.99,46,3,5,namesilo,,
 01cac881-6354-428d-b242-67d8329e3600,techsupport.kids,available,9.99,,76,18,12,name.com,,
 01dceebf-05c1-457f-a365-af59027a7090,takehuff.kids,available,6.79,19.99,64,1,9,namesilo,,

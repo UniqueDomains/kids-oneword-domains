@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kids one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,457 domains · **Median ask:** $37.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/kids`  
 **Best for:** founders, investors, studios
 
@@ -80,9 +80,9 @@ print(df.head())
 | pros.kids          | premium   | $53.92    | $21.24        | 53             | 23     | 4      | namesilo        |
 | forms.kids         | available | $9.99     | —             | 54             | 28     | 5      | name.com        |
 | reservation.kids   | premium   | $62.50    | —             | 65             | 19     | 11     | name.com        |
-| trees.kids         | available | $9.99     | —             | 58             | 26     | 5      | name.com        |
-| bros.kids          | premium   | $375      | —             | 58             | 19     | 4      | name.com        |
 | sites.kids         | available | $9.99     | —             | 53             | 26     | 5      | name.com        |
+| bros.kids          | premium   | $375      | —             | 58             | 19     | 4      | name.com        |
+| trees.kids         | available | $9.99     | —             | 58             | 25     | 5      | name.com        |
 | vacations.kids     | premium   | $375      | —             | 56             | 19     | 9      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

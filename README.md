@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .kids one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,457 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,457 domains · **Median ask:** $69.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,457 domains · **Median ask:** $64.75 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/kids`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | Fla.kids      | available | $6.79     | $19.99        | medium         | low    | 3      | namesilo         |
 | gold.kids     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | awe.kids      | premium   | $375      | —             | high           | low    | 3      | name.com         |
-| shh.kids      | available | $6.79     | $19.99        | medium         | low    | 3      | namesilo         |
+| ixl.kids      | available | $6.79     | $19.99        | low            | low    | 3      | namesilo         |
 | Americas.kids | resell    | —         | —             | medium         | low    | 8      | GoDaddy.com, LLC |
 | bce.kids      | premium   | $53.92    | $21.24        | medium         | low    | 3      | namesilo         |
-| xxv.kids      | available | $9.99     | $33.99        | medium         | low    | 3      | name.com         |
+| lxi.kids      | available | $6.79     | $19.99        | low            | low    | 3      | namesilo         |
 | bio.kids      | premium   | $854      | $21.24        | high           | medium | 3      | namesilo         |
-| Bets.kids     | available | $6.79     | $19.99        | high           | low    | 4      | namesilo         |
+| shh.kids      | available | $6.79     | $19.99        | medium         | low    | 3      | namesilo         |
 | cap.kids      | premium   | $375      | —             | high           | low    | 3      | name.com         |
-| days.kids     | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| xxv.kids      | available | $9.99     | $33.99        | medium         | low    | 3      | name.com         |
 | cut.kids      | premium   | $375      | $22.50        | high           | low    | 3      | name.com         |
-| eyes.kids     | available | $6.79     | $19.99        | high           | low    | 4      | namesilo         |
+| Bets.kids     | available | $6.79     | $19.99        | high           | low    | 4      | namesilo         |
 | dye.kids      | premium   | $53.92    | $21.24        | medium         | low    | 3      | namesilo         |
-| stan.kids     | available | $6.79     | $19.99        | high           | low    | 4      | namesilo         |
+| days.kids     | available | $9.99     | —             | high           | low    | 4      | name.com         |
 | far.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo         |
-| tons.kids     | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| eyes.kids     | available | $6.79     | $19.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,457 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

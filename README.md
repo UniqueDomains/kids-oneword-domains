@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kids one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,506 domains · **Median ask:** $52.43 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/kids`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| away.kids     | premium   | $53.92    | $21.24        | high           | low    | 4      | namesilo         |
+| cut.kids      | premium   | $375      | $22.50        | high           | low    | 3      | name.com         |
+| perfect.kids  | available | —         | —             | high           | low    | 7      | —                |
 | ben.kids      | available | $6.79     | $19.99        | high           | medium | 3      | namesilo         |
 | fly.kids      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | apt.kids      | premium   | $62.50    | —             | high           | low    | 3      | name.com         |
@@ -78,12 +81,9 @@ print(df.head())
 | shh.kids      | available | $6.79     | $19.99        | medium         | low    | 3      | namesilo         |
 | cap.kids      | premium   | $375      | —             | high           | low    | 3      | name.com         |
 | xxv.kids      | available | $9.99     | $33.99        | medium         | low    | 3      | name.com         |
-| cut.kids      | premium   | $375      | $22.50        | high           | low    | 3      | name.com         |
 | bats.kids     | available | $6.79     | $19.99        | low            | low    | 4      | namesilo         |
 | dye.kids      | premium   | $53.92    | $21.24        | medium         | low    | 3      | namesilo         |
 | Bets.kids     | available | $6.79     | $19.99        | high           | low    | 4      | namesilo         |
-| far.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo         |
-| days.kids     | available | $9.99     | —             | high           | low    | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

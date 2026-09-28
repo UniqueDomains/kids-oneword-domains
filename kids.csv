@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+8663f426-72a0-4588-83da-df8047d5148b,kentucky.kids,premium,51.95,18.83,high,low,8,spaceship,,,28/09/2026 05:17
 23e15a78-8615-45f3-8d34-199cba84ec7e,dampen.kids,premium,62.5,22.5,medium,low,6,name.com,,,13/08/2026 16:53
 34352fc9-3657-4792-84ec-01b9646c5bc4,grouped.kids,available,7.98,29.98,medium,low,7,namecheap,,,20/08/2026 20:22
 8f196e40-51e3-4383-83e3-4f98d7427f54,multicolor.kids,available,6.79,19.99,high,low,10,namesilo,,,03/09/2026 10:35
@@ -20,6 +21,7 @@ bccb4a93-1619-4ec5-a233-d5f00801f696,iterative.kids,available,6.79,19.99,high,lo
 d3b606c7-9900-4dd2-a192-fed3437a7bfc,aladdin.kids,premium,375,,high,medium,7,name.com,,,
 d186b05e-9593-48db-aed9-943745a5d924,assegai.kids,available,6.79,19.99,medium,low,7,namesilo,,,20/09/2026 15:40
 c6dc2a0d-5e93-47d5-b018-b1d9f1f81fbc,lowell.kids,premium,53.92,21.24,high,low,6,namesilo,,,16/09/2026 14:32
+f6f7d24a-c95d-497d-a929-59b896e6bd0e,nicola.kids,available,6.79,19.99,high,low,6,namesilo,,,28/09/2026 07:47
 706d31df-8316-4e4f-8105-4f966b86b110,palpable.kids,premium,53.92,21.24,high,low,8,namesilo,,,05/09/2026 00:07
 478aaf12-d943-4bfc-b066-809191beea4e,anzac.kids,available,7.98,29.98,medium,low,5,namecheap,,,19/09/2026 16:00
 67a59dd9-40fb-4368-9db4-9ab13d60e8f0,tornado.kids,premium,62.5,,high,low,7,name.com,,,
@@ -52,7 +54,7 @@ f13be355-468b-4757-a241-8f5e882c70e6,cheeses.kids,available,6.79,19.99,high,low,
 b3180b58-8c61-4e90-aad4-c77bf46dac2e,algerian.kids,available,6.79,19.99,high,low,8,namesilo,,,
 0f30edca-9bd9-4418-b3ab-76cc075a2a56,overactive.kids,premium,53.92,21.24,medium,low,10,namesilo,,,21/08/2026 16:42
 4d92739e-2100-485f-8983-d53a1d4c4286,impound.kids,premium,62.5,22.5,high,low,7,name.com,,,12/08/2026 21:04
-0323b02d-a485-4ee1-aee3-e61cbb0022ca,arts.kids,available,6.79,19.99,high,low,4,namesilo,,,23/09/2026 06:35
+0323b02d-a485-4ee1-aee3-e61cbb0022ca,arts.kids,available,5.38,18.83,high,low,4,spaceship,,,28/09/2026 04:29
 d1af0b57-1847-40f3-8956-6ec0b94e8fcd,antithetic.kids,available,6.79,19.99,medium,low,10,namesilo,,,05/08/2026 19:49
 3ef06edc-4bff-4d7f-9bde-e03d7f0fc76d,cuddle.kids,premium,65,23.4,high,low,6,namecheap,,,24/09/2026 20:09
 71de5995-d562-4e2d-8738-02296b33c6d0,buzz.kids,premium,384,21.24,high,low,4,namesilo,,,25/09/2026 00:26
@@ -63,6 +65,7 @@ c69572e8-b1ab-49bc-a780-b85b0b3e65e6,caudal.kids,available,6.79,19.99,high,low,6
 c52304a5-a947-40c4-95a9-91fdf9ca2b3d,provision.kids,premium,53.92,21.24,high,low,9,namesilo,,,
 6c885d61-3819-43c5-91b2-596c31759737,scorned.kids,available,6.79,19.99,medium,low,7,namesilo,,,14/08/2026 04:16
 f155c22e-eb73-468b-9654-515a91944a56,opencast.kids,available,6.79,19.99,medium,low,8,namesilo,,,04/09/2026 16:08
+00ac3dcd-f89c-459a-91d8-5640d371d8cd,appreciated.kids,available,6.79,19.99,high,low,11,namesilo,,,28/09/2026 07:22
 1221aaab-fb1e-4b8b-b314-647ae6f6c687,reversion.kids,premium,53.92,21.24,high,low,9,namesilo,,,09/09/2026 16:19
 291115a2-53ce-4402-b645-76a31dfb23a0,arachnoid.kids,available,6.79,19.99,medium,low,9,namesilo,,,06/08/2026 11:41
 bebda5ec-c8ef-4974-920a-9b19f45bb68f,goony.kids,available,6.79,19.99,medium,low,5,namesilo,,,23/09/2026 23:48
@@ -71,10 +74,11 @@ c9138acf-caaf-4698-9c8c-6dad269d6341,warring.kids,premium,53.92,21.24,medium,low
 23ec2f84-8516-493a-a7ae-5c82d2bb95af,beldame.kids,available,6.79,19.99,medium,low,7,namesilo,,,23/09/2026 04:46
 514ae899-e0c5-4ed5-8a5e-c75313f62381,usually.kids,available,6.79,19.99,high,low,7,namesilo,,,
 213b2879-61ba-4f66-af8e-90021a05a9b0,implanted.kids,available,6.79,19.99,medium,low,9,namesilo,,,13/08/2026 22:47
-13c0c9d5-f310-4718-889c-3c0aaa86b893,artistry.kids,premium,53.92,21.24,high,medium,8,namesilo,,,19/09/2026 06:29
+13c0c9d5-f310-4718-889c-3c0aaa86b893,artistry.kids,premium,51.95,18.83,high,medium,8,spaceship,,,28/09/2026 08:07
 e2fd9fc8-eef5-4013-a75b-cd3302123d30,fell.kids,premium,53.92,21.24,medium,low,4,namesilo,,,08/08/2026 15:49
 f40ba2bb-bcd8-415e-b3f5-33f9b2222865,flashy.kids,premium,53.92,21.24,high,low,6,namesilo,,,18/08/2026 06:33
 024561cc-b6a8-48a7-9411-b84e07a53c53,myalgic.kids,available,6.79,19.99,medium,low,7,namesilo,,,03/09/2026 11:57
+34542feb-e94e-4076-b0a1-d08d0fd0cf6f,possessed.kids,available,5.66,19.05,medium,low,9,porkbun,,,28/09/2026 03:28
 b5b5a1b8-56f3-4a72-9711-216fb5529938,auschwitz.kids,premium,65,23.4,medium,low,9,namecheap,,,21/09/2026 04:35
 f078b54e-09a6-4f98-9e7c-fb1948d521c6,ingredients.kids,available,6.79,19.99,medium,low,11,namesilo,,,
 c971bccd-39db-443d-b73a-50ad9dbb3083,xxxvii.kids,available,6.79,19.99,medium,low,6,namesilo,,,
@@ -125,6 +129,7 @@ df8d1ce3-e833-4150-9b49-d3bd7d571dd2,while.kids,premium,53.92,21.24,high,low,5,n
 e68eebb6-5d03-4b1a-be1a-a0dc3fa6fab2,bisayan.kids,available,7.98,29.98,medium,low,7,namecheap,,,23/09/2026 21:29
 864780cf-b3a3-4410-b062-7d70753c45f7,grains.kids,available,9.99,,high,low,6,name.com,,,
 9faee749-39d2-46a0-984f-4ea875b2fce5,boxing.kids,premium,375,,high,low,6,name.com,,,
+bf46536d-a891-42b6-afcd-339bfe2c3732,wheaton.kids,available,6.79,19.99,high,low,7,namesilo,,,28/09/2026 07:32
 1b8b6be8-2b21-4aee-907e-7da9e8623084,rente.kids,available,9.99,33.99,medium,low,5,name.com,,,19/09/2026 10:58
 d2eacd7f-9f9c-4dbc-aa1a-1873a3c3de3b,bill.kids,premium,384,21.24,high,low,4,namesilo,,,19/09/2026 17:00
 423b3bba-d16a-4636-b962-876182b4b151,scary.kids,premium,375,22.5,high,low,5,name.com,,,12/08/2026 05:23
@@ -180,6 +185,7 @@ e97b4f31-e79e-48a9-ac5d-5180304b6ad2,mown.kids,available,6.79,19.99,medium,low,4
 df07c4c8-a1f9-4e11-af3c-e53c4bcb2524,macabre.kids,premium,53.92,21.24,medium,low,7,namesilo,,,18/08/2026 23:19
 a08c2b7f-3bdf-4085-933f-c2c81afdf89d,wrap.kids,premium,53.92,21.24,high,low,4,namesilo,,,26/09/2026 00:32
 f4d4612c-f920-49dd-b286-21b179ff6eae,bleb.kids,available,7.98,29.98,medium,low,4,namecheap,,,24/09/2026 05:21
+825ed3ea-8016-4066-98a4-aca462736b1e,barack.kids,available,5.38,18.83,high,low,6,spaceship,,,28/09/2026 07:27
 f8165fed-b2d2-4840-befd-cc1bec42ec3c,diving.kids,available,6.79,19.99,high,low,6,namesilo,,,
 6f9bb8a8-80b4-450e-b619-50a7482a720e,case.kids,premium,375,,high,low,4,name.com,,,
 2f1ada6f-3e09-4b01-8d63-c9c7f2754bad,roomily.kids,available,6.79,19.99,medium,low,7,namesilo,,,16/09/2026 00:01
@@ -194,9 +200,10 @@ fa6b5ff5-36f1-4557-a248-5f8841ac1c0a,rhythm.kids,premium,65,23.4,high,low,6,name
 f24a3e58-275a-4278-a27d-3036c8bf9d78,sulfuric.kids,premium,53.92,21.24,medium,low,8,namesilo,,,11/09/2026 01:29
 ea26f41c-5eb6-48d4-9be3-88c69d96fe6e,moulding.kids,premium,53.92,21.24,medium,low,8,namesilo,,,24/09/2026 15:25
 bac4208f-038a-4203-a37e-99592d9a41ca,trippingly.kids,premium,53.92,21.24,medium,low,10,namesilo,,,15/09/2026 11:20
+c33bca96-71d2-4de2-8ed1-6a9ad3180ad2,musa.kids,available,7.98,29.98,high,low,4,namecheap,,,28/09/2026 05:49
 7750d8a2-3ed2-485f-a312-1b329de90fc4,scene.kids,premium,390,23.4,high,low,5,namecheap,,,24/09/2026 18:53
 afb2b50e-3039-4dc7-affe-23726fa5d610,armenian.kids,premium,53.92,21.24,high,low,8,namesilo,,,06/08/2026 19:39
-39e5155b-c8a3-4d5a-af28-037452c4b3f2,news.kids,premium,1040,23.4,high,medium,4,namecheap,,,23/09/2026 11:01
+39e5155b-c8a3-4d5a-af28-037452c4b3f2,news.kids,premium,854,21.24,high,medium,4,namesilo,,,28/09/2026 06:34
 f9738b77-e8e4-4246-80b0-0d500ec99ad3,raspberry.kids,premium,384,21.24,medium,low,9,namesilo,,,24/09/2026 06:43
 ef0caca0-f4b7-4b87-a363-606e00147cb1,androgenic.kids,available,6.79,19.99,medium,low,10,namesilo,,,
 29917a62-9d4e-4616-869b-b81c4368ec23,jiffy.kids,premium,53.92,21.24,high,low,5,namesilo,,,22/08/2026 07:30
@@ -211,6 +218,7 @@ e4195261-510a-4049-94ab-413af3cb168f,toad.kids,premium,62.5,22.5,high,low,4,name
 b44be080-2799-4248-a5a0-02c0c70d1eb3,pinwheel.kids,premium,53.92,21.24,high,low,8,namesilo,,,17/09/2026 12:41
 5df0456b-5f82-46ee-a265-ca77841f3ecc,floss.kids,premium,384,21.24,high,low,5,namesilo,,,24/09/2026 21:54
 89919056-408a-4044-9a2d-f40368afb183,sinners.kids,available,6.79,19.99,medium,low,7,namesilo,,,
+8df90227-c304-4799-b730-245b51d5fea7,delle.kids,available,5.38,18.83,medium,low,5,spaceship,,,28/09/2026 07:54
 b9ac3ed7-3b19-4b4e-aeee-3d8cdabd8284,resentment.kids,premium,53.92,21.24,medium,low,10,namesilo,,,23/09/2026 23:03
 b2652527-d5b2-4255-ade7-3dd83b18a2d1,deadly.kids,premium,65,23.4,medium,low,6,namecheap,,,22/09/2026 16:43
 2da9d537-c945-48da-8b25-7f61f9f0d674,hospitals.kids,available,6.79,19.99,medium,low,9,namesilo,,,20/09/2026 04:37
@@ -227,7 +235,7 @@ f507134a-44aa-4d6b-9f07-f9ed86e1c091,upfront.kids,available,6.79,19.99,high,low,
 4579a8e6-fa3d-4ed3-9156-9c0123c072e5,carte.kids,available,6.79,19.99,medium,low,5,namesilo,,,23/09/2026 16:04
 e729b05c-67f4-421a-99f3-73d0c5702a86,pied.kids,premium,53.92,21.24,high,low,4,namesilo,,,03/09/2026 10:39
 a2648594-944b-43ab-be45-75bf886a500f,phil.kids,available,6.79,19.99,high,medium,4,namesilo,,,
-f015afd5-48ab-4d59-ad09-f54c10c7cfea,businesses.kids,premium,384,21.24,medium,low,10,namesilo,,,23/09/2026 07:34
+f015afd5-48ab-4d59-ad09-f54c10c7cfea,businesses.kids,premium,310.7,18.83,medium,low,10,spaceship,,,28/09/2026 04:57
 179ee700-ec9e-4fe8-9233-b7d2982e02c4,slouchy.kids,premium,53.92,21.24,medium,low,7,namesilo,,,19/09/2026 04:23
 8cc41d89-9a67-495f-8eda-240572413571,neurogenic.kids,available,6.79,19.99,medium,low,10,namesilo,,,03/09/2026 16:12
 6abeff27-1a17-46da-b7b1-3611cf55aaa5,lieutenant.kids,premium,53.92,21.24,high,low,10,namesilo,,,28/09/2026 02:16
@@ -237,6 +245,7 @@ ccd4bb02-0839-4860-a282-ced70f87b525,emerging.kids,available,7.98,29.98,high,low
 f6b33670-e128-4d21-9c4e-618cc44f3c20,contorted.kids,available,6.79,19.99,medium,low,9,namesilo,,,12/08/2026 23:22
 4aa9369c-e33f-4f09-85e8-9596653e0117,kenneth.kids,available,7.98,29.98,high,low,7,namecheap,,,25/09/2026 19:13
 68b61411-2d43-468c-943f-412fe044c347,vandalism.kids,premium,53.92,21.24,medium,low,9,namesilo,,,
+7cdf8cf8-3c9d-4034-b8be-86de30984da8,pause.kids,premium,384,21.24,high,low,5,namesilo,,,28/09/2026 06:34
 45b9c9f2-c985-46c9-b840-d96fd9b6697f,chronic.kids,premium,53.92,21.24,high,low,7,namesilo,,,12/08/2026 07:24
 7ac17da5-8eb2-44cb-b787-8cbb681a6988,polyester.kids,premium,53.92,21.24,high,low,9,namesilo,,,
 cc644f9f-a6ce-41ee-aaba-50411daf4748,regally.kids,available,6.79,19.99,medium,low,7,namesilo,,,15/09/2026 22:55
@@ -245,6 +254,7 @@ cc644f9f-a6ce-41ee-aaba-50411daf4748,regally.kids,available,6.79,19.99,medium,lo
 8499eedc-31b4-4236-9bdf-b9eca272f53a,bedcover.kids,available,7.98,29.98,high,low,8,namecheap,,,22/09/2026 22:53
 a0e46eed-462e-4701-b4a8-c6e78dbb1738,bagful.kids,available,7.98,29.98,medium,low,6,namecheap,,,21/09/2026 17:57
 18144f2a-6cf7-42fe-b249-56e562c3e0cd,allice.kids,available,6.79,19.99,medium,low,6,namesilo,,,18/09/2026 11:05
+8a63a0f9-888f-47a4-b3d7-991c8beeee5d,writers.kids,available,6.79,19.99,medium,low,7,namesilo,,,28/09/2026 04:38
 0e7ad457-ed17-40fb-8caa-97b4c41b31ec,untrue.kids,premium,53.92,21.24,medium,low,6,namesilo,,,26/09/2026 03:18
 ca6e1986-f012-45cb-afa4-7f16853540ae,absinth.kids,available,6.79,19.99,medium,low,7,namesilo,,,16/09/2026 17:44
 f266b5de-0f30-49bb-87a1-49acb66ce4ae,obamacare.kids,available,6.79,19.99,medium,low,10,namesilo,,,
@@ -279,11 +289,13 @@ e0207101-4c8c-4099-b903-b664a38850de,saving.kids,premium,390,23.4,high,low,6,nam
 b0f87dfa-b5fa-4ebf-908c-282ab24b4e9d,acervate.kids,available,6.79,19.99,medium,low,8,namesilo,,,
 703cd3cb-3a94-411a-95a4-6da3a01f4a7f,dysprosium.kids,premium,53.92,21.24,medium,low,10,namesilo,,,20/09/2026 23:28
 343fa5ea-1f7d-4adb-a7bf-30abee155467,vassal.kids,premium,53.92,21.24,medium,low,6,namesilo,,,18/08/2026 03:02
+956479e4-4d77-4295-b4ce-17a3c8bbf3a3,haines.kids,available,5.38,18.83,medium,low,6,spaceship,,,28/09/2026 04:08
 524669b3-a314-4b4b-ac26-efd6fb08dae9,arachnida.kids,available,6.79,19.99,medium,low,9,namesilo,,,19/09/2026 23:41
 d463b0dc-0f6f-4936-9da8-cca69e7b8968,condo.kids,premium,53.92,21.24,high,low,5,namesilo,,,
 56ca82a4-ee85-4f20-8ed2-395c4de19208,lubricious.kids,available,6.79,19.99,medium,low,10,namesilo,,,24/08/2026 10:50
 de6edb47-3045-486b-a9b7-40444611ce44,brotherly.kids,premium,53.92,21.24,high,low,9,namesilo,,,11/08/2026 06:18
 07563d3e-0cf5-4b19-8191-e8416ef81f17,betrayed.kids,available,9.99,33.99,medium,low,8,name.com,,,26/09/2026 03:08
+d0811717-36a9-4a4f-9304-f348a9a10b62,roderick.kids,available,6.79,19.99,medium,low,8,namesilo,,,28/09/2026 07:48
 7adf0e14-dce6-4cbc-b132-af46aaeb2dd1,ayrshire.kids,premium,53.92,21.24,high,low,8,namesilo,,,21/09/2026 10:44
 782d9dcb-947e-430c-9cbb-ea6c2f919624,haiti.kids,available,,,high,high,5,,,,
 a42f0c42-97f4-4f84-8182-10ba3cc9d7f8,upright.kids,premium,53.92,21.24,high,low,7,namesilo,,,17/08/2026 12:05
@@ -309,7 +321,7 @@ bda01cb9-f3a1-44d8-9297-2e32ec43141f,withdrawal.kids,premium,53.92,21.24,high,lo
 3de38c26-54d6-424f-82e8-c3a3d60df227,harpo.kids,available,6.79,19.99,high,medium,5,namesilo,,,20/09/2026 11:01
 981b69ca-5100-45a4-90a2-5081c4d06aab,biaxal.kids,available,6.79,19.99,medium,low,6,namesilo,,,09/08/2026 18:46
 e9b1c536-2770-4ac8-824e-42e2f0194bd8,loved.kids,available,6.79,19.99,high,low,5,namesilo,,,25/09/2026 14:27
-0e39ef45-f690-436b-9db3-277dfb1d63cb,beverage.kids,premium,390,23.4,high,low,8,namecheap,,,23/09/2026 19:28
+0e39ef45-f690-436b-9db3-277dfb1d63cb,beverage.kids,premium,384,21.24,high,low,8,namesilo,,,28/09/2026 05:24
 43b57a3c-9079-4686-89ec-0f720ef9a36f,arbalist.kids,available,6.79,19.99,medium,low,8,namesilo,,,20/09/2026 00:35
 3f8a27ee-73b4-4f1d-8d00-ba6a70924044,kitschy.kids,available,6.79,19.99,medium,low,7,namesilo,,,09/08/2026 00:53
 ff1f3867-1de8-4a97-8feb-a7638dc1a714,tuna.kids,premium,53.92,21.24,high,low,4,namesilo,,,19/09/2026 07:27
@@ -323,6 +335,7 @@ da0bc777-2888-4b91-ace6-6d983bc63623,mussy.kids,available,7.98,29.98,medium,low,
 1ee3a003-3843-4e8a-affd-60c5ebe6ed08,ergotic.kids,available,6.79,19.99,medium,low,7,namesilo,,,17/08/2026 12:13
 1b7610db-4a5e-42b9-9957-d8e9ccfcaa1b,devotee.kids,premium,53.92,21.24,high,low,7,namesilo,,,11/08/2026 07:49
 25e9a0cc-ec6f-4a0a-98be-41512eae1c63,associate.kids,premium,53.92,21.24,high,low,9,namesilo,,,07/08/2026 06:50
+7ff7a646-48b5-4389-a087-61332ea93f77,simmons.kids,available,5.38,18.83,medium,low,7,spaceship,,,28/09/2026 07:47
 6d781ca1-b218-4197-ab51-11961a14b928,asystole.kids,available,7.98,29.98,medium,low,8,namecheap,,,20/09/2026 18:57
 a081b566-1d17-4241-bcca-e26deb1659ad,jowly.kids,available,6.79,19.99,medium,low,5,namesilo,,,14/08/2026 16:48
 1d036b54-6f61-41c5-8fee-a9b0cb93dcc8,derivable.kids,available,6.79,19.99,medium,low,9,namesilo,,,14/08/2026 03:00
@@ -372,6 +385,7 @@ e93ead62-a01f-4c33-aed9-d660b2db4900,ruthful.kids,available,6.79,19.99,medium,lo
 ac8d38f4-49f7-4096-ac91-71ade1731993,cerium.kids,premium,53.92,21.24,medium,low,6,namesilo,,,14/09/2026 06:07
 eb2ef056-5bae-41e6-89c5-55ff157be927,nebulizer.kids,available,6.79,19.99,high,low,9,namesilo,,,21/09/2026 00:21
 2066a531-7207-42dc-be2c-77613631d6a9,unkept.kids,available,6.79,19.99,medium,low,6,namesilo,,,12/09/2026 14:09
+ca16e3b7-95b5-4beb-bc97-47e72698a39a,towers.kids,available,6.79,19.99,medium,low,6,namesilo,,,28/09/2026 08:26
 d0093424-4464-4dab-b3f2-81880b22a82c,putin.kids,premium,51.95,18.83,medium,low,5,spaceship,,,28/09/2026 02:59
 bf338eaa-39b8-4852-b171-0f5ac79915e4,shocking.kids,premium,53.92,21.24,medium,low,8,namesilo,,,24/09/2026 11:12
 b2b194d7-1f11-453d-9d35-dd404e5c09e4,hamburger.kids,premium,375,,high,low,9,name.com,,,
@@ -382,6 +396,7 @@ b81cb07a-45d0-48ce-b37a-249014b95be2,prize.kids,premium,53.92,21.24,high,low,5,n
 dac80855-7e94-4f0d-9bfa-08b43a282535,activator.kids,available,6.79,19.99,high,low,9,namesilo,,,17/09/2026 05:10
 f7641dd2-9bd8-4551-805d-ecb1a5b2eb43,temporary.kids,premium,384,21.24,high,low,9,namesilo,,,25/09/2026 07:53
 1fe0898c-da08-4bff-9474-19dee2bd5d0c,sextet.kids,available,6.79,19.99,high,low,6,namesilo,,,
+d51f8858-37f6-4c5a-ab53-e144c8494f78,venice.kids,premium,51.95,18.83,high,low,6,spaceship,,,28/09/2026 03:15
 fde8f5fd-cd3a-4422-801e-a3e1a016dd43,postural.kids,available,6.79,19.99,medium,low,8,namesilo,,,09/09/2026 00:40
 b38df05e-87e5-41ba-b55b-39f1e92a2371,oversight.kids,premium,53.92,21.24,high,low,9,namesilo,,,
 df863430-3445-4ffb-be14-1e158c5ab9b1,witching.kids,premium,53.92,21.24,medium,low,8,namesilo,,,13/09/2026 12:46
@@ -404,6 +419,7 @@ c1dc4716-c708-4d59-9f2e-ba45380fcf5e,similarly.kids,available,9.99,,medium,low,9
 238498f5-5086-43e2-ac21-f3825ff7ae69,unwrapped.kids,available,6.79,19.99,medium,low,9,namesilo,,,12/09/2026 22:53
 a8d1a616-0049-47d4-a251-3555b13f73f8,bind.kids,premium,53.92,21.24,high,low,4,namesilo,,,22/09/2026 00:54
 b66b68cc-cae7-4956-9fb5-5abedd2d0aa6,piano.kids,premium,384,21.24,high,low,5,namesilo,,,27/09/2026 03:41
+f5e372ca-0537-4b7f-b3e1-71d7cee258a7,regan.kids,available,7.98,29.98,high,low,5,namecheap,,,28/09/2026 07:56
 b2139465-49c5-4cdc-9004-ecaf6279c254,mop.kids,premium,62.5,,high,low,3,name.com,,,
 082446a0-aef1-4d2c-9a56-45444b9a297c,fastest.kids,available,7.98,29.98,high,low,7,namecheap,,,14/09/2026 17:49
 607835b5-69fa-46bf-b29a-1f9ccc4576de,alienist.kids,available,6.79,19.99,medium,low,8,namesilo,,,18/09/2026 07:40
@@ -485,6 +501,7 @@ d52541b0-33c1-4bf3-a87e-0b5d47034a3b,ridge.kids,premium,53.92,21.24,high,low,5,n
 5b1b0634-04fa-47b7-a906-1e1507f5bbe9,makomako.kids,available,7.98,29.98,medium,low,8,namecheap,,,20/09/2026 05:57
 43f39299-eec6-493b-bcbb-6c319d85d42e,excitable.kids,premium,53.92,21.24,medium,low,9,namesilo,,,17/08/2026 16:22
 e798605e-06a0-4504-b080-764f87df8efc,requirement.kids,premium,53.92,21.24,high,low,11,namesilo,,,
+24bf13f3-5367-4836-88eb-217da7fb56f9,referring.kids,available,5.66,19.05,high,low,9,porkbun,,,28/09/2026 03:35
 25aa661c-8528-4b81-a595-5afc844b626a,priest.kids,premium,53.92,21.24,high,low,6,namesilo,,,27/09/2026 04:53
 0da5cafe-5206-4859-9663-a0c34c83cd22,agleam.kids,available,6.79,19.99,medium,low,6,namesilo,,,
 16333033-6460-42ba-9e4e-824613892851,tricolour.kids,premium,65,23.4,high,low,9,namecheap,,,11/09/2026 19:27
@@ -517,6 +534,7 @@ f0676aa9-0aaf-4f82-9b3c-b7e47ca1814b,twopenny.kids,available,6.79,19.99,medium,l
 a23944e6-4d64-48bb-96b7-c716f6c8fc19,sara.kids,available,7.98,29.98,high,low,4,namecheap,,,25/09/2026 21:30
 e5461f96-beba-4a0a-95d3-f04eaaffc6a5,antwerp.kids,premium,65,23.4,medium,low,7,namecheap,,,19/09/2026 15:48
 86c394f9-1ff7-4bc1-81ba-0220c709fc66,oblique.kids,premium,53.92,21.24,high,low,7,namesilo,,,14/08/2026 05:11
+0707e859-cd0d-4232-9ec2-548b3b8f4cf7,issued.kids,available,5.38,18.83,low,low,6,spaceship,,,28/09/2026 08:22
 0cb071ab-7269-43c4-9f3f-07d29c6be956,confusing.kids,available,7.98,29.98,high,low,9,namecheap,,,23/09/2026 20:14
 15992021-6220-4bbc-9de6-150d8fe5b784,paths.kids,available,6.79,19.99,medium,low,5,namesilo,,,18/09/2026 10:52
 a6b7b004-8c32-4cd0-b374-df23bf8ee5f2,answerer.kids,available,6.79,19.99,medium,low,8,namesilo,,,19/09/2026 12:14
@@ -525,11 +543,13 @@ d9330456-6257-488f-94f6-07b279ed8ffa,enchained.kids,available,6.79,19.99,medium,
 dedb425b-8e68-48a5-8dc6-9fba3a19e582,reasonably.kids,available,7.98,29.98,medium,low,10,namecheap,,,25/09/2026 11:58
 94d3cee2-1f1c-474e-a98c-78e79c884745,coalition.kids,premium,53.92,21.24,high,low,9,namesilo,,,18/09/2026 07:45
 5eca58ee-462f-4d0d-a7f7-39d2a059ece1,unlivable.kids,available,6.79,19.99,medium,low,9,namesilo,,,12/09/2026 14:57
-8f6f2679-f3c1-4730-9c3d-6aae54c0e621,facts.kids,premium,390,23.4,high,low,5,namecheap,,,23/09/2026 17:41
+8f6f2679-f3c1-4730-9c3d-6aae54c0e621,facts.kids,premium,384,21.24,high,low,5,namesilo,,,28/09/2026 04:09
 9c1d253e-23e4-48dd-89db-d988b6d78ab0,dicker.kids,premium,62.5,22.5,medium,low,6,name.com,,,22/09/2026 05:30
 2ecd34fe-16ca-4021-a204-680ed9a03411,informs.kids,available,6.79,19.99,high,low,7,namesilo,,,20/09/2026 13:37
 b8163fbd-1907-4364-b5ea-4055f78a3546,inviolate.kids,premium,53.92,21.24,medium,low,9,namesilo,,,22/08/2026 09:06
+bca5bd43-8881-4443-8167-2c50647e7ade,davey.kids,available,5.38,18.83,medium,low,5,spaceship,,,28/09/2026 07:55
 88a0c6d8-30bd-4972-a47d-3a4b4abe61fc,opinions.kids,available,6.79,19.99,medium,low,8,namesilo,,,17/09/2026 07:35
+73940269-5e91-49aa-8284-20d4369b8e62,riggs.kids,available,5.38,18.83,medium,low,5,spaceship,,,28/09/2026 08:07
 72f12ede-529d-4cea-8200-d00e7bfc1311,angle.kids,premium,53.92,21.24,high,low,5,namesilo,,,25/09/2026 13:22
 0614a783-fb7a-44d2-b680-0b7a38f4503d,popish.kids,available,6.79,19.99,medium,low,6,namesilo,,,05/09/2026 01:32
 3f1cff5f-32d8-4970-9ebd-2ebbff51f7b7,fever.kids,premium,375,,high,low,5,name.com,,,
@@ -560,8 +580,10 @@ d739d55f-75c0-4ca6-9e46-be8ae6531fed,stood.kids,premium,53.92,21.24,medium,low,5
 949f2b6d-b3cd-45d6-8600-ecc9691deccc,helpful.kids,premium,53.92,21.24,high,low,7,namesilo,,,21/08/2026 06:37
 a88c6173-0f63-4a29-b375-29901f5f7b81,skype.kids,available,6.79,19.99,high,medium,5,namesilo,,,
 085bca2f-56e8-4b57-8eed-f5bf1fdb3f2b,dime.kids,premium,53.92,21.24,high,low,4,namesilo,,,
+7a285df2-14b8-4efe-8855-499428a3a614,consciousness.kids,premium,384,21.24,medium,low,13,namesilo,,,28/09/2026 08:13
 f7ad9c8e-7c57-4078-b941-e6c862fb5040,cooperate.kids,premium,384,21.24,high,low,9,namesilo,,,27/09/2026 16:33
 9c263bf4-341a-479c-bb19-558fc16d2ddb,rumour.kids,premium,53.92,21.24,high,low,6,namesilo,,,21/08/2026 02:08
+d52e3564-221c-4ac9-a698-4424a5d21811,towns.kids,available,5.66,19.05,high,low,5,porkbun,,,28/09/2026 07:32
 3191bac4-186e-41b7-b05d-e898904e8495,drippy.kids,available,6.79,19.99,medium,low,6,namesilo,,,09/08/2026 00:32
 222a5f78-7eb1-4d33-95ad-84285c196332,fear.kids,premium,53.92,21.24,high,low,4,namesilo,,,24/09/2026 12:06
 fe18c588-9532-4671-a489-8ecc74828ad0,slugger.kids,premium,53.92,21.24,high,low,7,namesilo,,,22/09/2026 14:18
@@ -672,6 +694,7 @@ a567d5ae-28ee-4d8b-b4d0-8fbcdc1ee533,herself.kids,premium,53.92,21.24,medium,low
 21c631ac-c84c-4f4c-bc53-dc06dc110345,involved.kids,premium,53.92,21.24,high,low,8,namesilo,,,25/09/2026 11:16
 d0f217d6-4c7d-43bc-8c7b-7c5be70c47dc,akron.kids,premium,53.92,21.24,medium,low,5,namesilo,,,18/09/2026 00:14
 30b83445-da35-4dce-b94c-849b61456550,windup.kids,premium,384,21.24,high,low,6,namesilo,,,13/09/2026 12:18
+57dfed0d-8cc7-4c12-b2f6-308aab2fbba3,yelling.kids,available,7.98,29.98,high,low,7,namecheap,,,28/09/2026 06:53
 73aa4ded-0564-49b0-bf1b-73f80a2af006,exchanged.kids,available,6.79,19.99,high,low,9,namesilo,,,17/08/2026 16:20
 1ce4d14b-9c8e-4f6d-bfa0-86ffcc8c037a,artwork.kids,available,6.79,19.99,high,low,7,namesilo,,,
 292aac9e-4ad4-4228-b442-79bfd16ed9f3,asynchrony.kids,available,6.79,19.99,medium,low,10,namesilo,,,20/09/2026 18:41
@@ -721,12 +744,12 @@ be69f36e-153f-4970-abbb-c9c716056952,worldly.kids,premium,375,22.5,high,low,7,na
 7970b56d-efab-48a6-9292-0b84d6a15050,stripping.kids,available,7.98,29.98,medium,low,9,namecheap,,,22/09/2026 05:59
 de99c7f5-6f20-4441-8a18-b1cca5be651d,indiscreet.kids,premium,53.92,21.24,medium,low,10,namesilo,,,22/08/2026 03:07
 9b7c3300-bcf5-4e03-99ac-03429ef9b2b5,beside.kids,premium,375,,high,low,6,name.com,,,
-c49ff138-434d-4959-9ca0-1e290058a50d,things.kids,available,9.99,,high,low,6,name.com,,,
+c49ff138-434d-4959-9ca0-1e290058a50d,things.kids,available,6.79,19.99,high,low,6,namesilo,,,28/09/2026 05:47
 0d91318a-a7f0-47c8-8def-8ebc09a643b0,polonium.kids,premium,53.92,21.24,medium,low,8,namesilo,,,20/09/2026 23:54
 edee21df-4f58-4f68-bd71-8a90fb817bc7,nursery.kids,premium,390,23.4,high,low,7,namecheap,,,24/09/2026 23:01
 17ad9d28-ac8b-4e75-b062-c6bc5c764c5b,firstborn.kids,premium,62.5,22.5,high,low,9,name.com,,,16/08/2026 02:17
 b7f6c73a-df67-42c3-b567-39d78ab6d199,threw.kids,premium,53.92,21.24,medium,low,5,namesilo,,,27/09/2026 02:18
-86c9c1d9-0b32-4345-bcdd-fda25fe1e817,agreement.kids,premium,65,23.4,high,low,9,namecheap,,,16/09/2026 22:51
+86c9c1d9-0b32-4345-bcdd-fda25fe1e817,agreement.kids,premium,53.92,21.24,high,low,9,namesilo,,,28/09/2026 08:10
 241ba70a-38f5-4eac-8191-5a03473894ca,lip.kids,premium,53.92,21.24,high,low,3,namesilo,,,
 9b2134ad-2e1c-4b6d-b29f-79993398d0e9,unscalable.kids,available,6.79,19.99,medium,low,10,namesilo,,,12/09/2026 05:23
 1b3cf7ff-655c-4814-ad8e-d04365c73e9a,scapegrace.kids,available,6.79,19.99,medium,low,10,namesilo,,,24/09/2026 01:41
@@ -792,7 +815,7 @@ df4e1d7d-fbc5-4fa3-b9a7-30afc862748b,agastache.kids,available,6.79,19.99,medium,
 3909e0af-f32d-4ae1-9e6c-eab7d5f061b9,aerial.kids,premium,53.92,21.24,high,low,6,namesilo,,,
 9d70987f-94ec-4b56-9926-d69bc5c1bfe9,amniota.kids,available,7.98,29.98,medium,low,7,namecheap,,,18/09/2026 22:27
 b3074672-2c88-4611-b7e0-71c5f611e6f9,idiopathic.kids,available,7.98,29.98,medium,low,10,namecheap,,,21/08/2026 18:09
-9624ca67-0e35-4dfc-aaac-09a127169a13,reliability.kids,premium,53.92,21.24,high,low,11,namesilo,,,
+9624ca67-0e35-4dfc-aaac-09a127169a13,reliability.kids,premium,51.95,18.83,high,low,11,spaceship,,,28/09/2026 04:00
 e5b0f0cb-3fe3-42ca-9212-761912f6caba,outpouring.kids,premium,53.92,21.24,high,low,10,namesilo,,,22/09/2026 07:58
 a78c6f62-06dc-4246-a560-fffec8016a2c,vanguard.kids,available,,,high,high,8,,,,
 6db6e2b2-512e-451a-9321-12464b200c5e,fittingly.kids,available,6.79,19.99,medium,low,9,namesilo,,,13/09/2026 20:32
@@ -809,7 +832,7 @@ a7c6aa32-d807-4d10-8845-b1876f5a8be7,ticket.kids,premium,390,23.4,high,low,6,nam
 83a1fa7e-ae6b-4428-b325-8102a0055bc0,enchanted.kids,premium,53.92,21.24,high,low,9,namesilo,,,16/08/2026 22:14
 42137bb2-a5ed-4a7e-816a-53348a58527a,osmium.kids,premium,53.92,21.24,medium,low,6,namesilo,,,20/09/2026 23:48
 5a688a54-767b-4e79-bb92-cbcef7fbbc64,maoist.kids,available,6.79,19.99,medium,low,6,namesilo,,,24/08/2026 15:38
-d02063c9-f2be-45e2-834b-8e304f1d58a5,academics.kids,available,7.98,29.98,high,low,9,namecheap,,,24/09/2026 02:34
+d02063c9-f2be-45e2-834b-8e304f1d58a5,academics.kids,available,5.57,19.48,high,low,9,dynadot,,,28/09/2026 05:28
 32ae286f-904a-47dc-bfe3-564135c7c79e,idiomatic.kids,available,7.98,29.98,medium,low,9,namecheap,,,21/08/2026 18:07
 af8a9613-3ef1-4f7d-a392-305f095a4889,afternoon.kids,premium,53.92,21.24,high,low,9,namesilo,,,
 44acbd9d-aa2a-45e9-bb8c-a7e3f1b4f56b,employer.kids,premium,53.92,21.24,high,low,8,namesilo,,,
@@ -836,7 +859,7 @@ e3c5a089-7b45-4af3-9c94-bd28208ecf15,logy.kids,premium,53.92,21.24,medium,low,4,
 5aed8345-b2e2-4e33-92cf-976d9c74da30,anomic.kids,available,6.79,19.99,medium,low,6,namesilo,,,
 d3d20909-6c5e-4ad7-8a87-7d68c8e5bf75,bemused.kids,available,6.79,19.99,medium,low,7,namesilo,,,07/08/2026 11:47
 b13403f2-9e08-4dec-8f66-fc87f272fc15,abstractly.kids,available,6.79,19.99,medium,low,10,namesilo,,,13/09/2026 16:42
-00cf74a3-ba53-47b0-b466-e2abbd6da0ea,account.kids,premium,53.92,21.24,high,low,7,namesilo,,,23/09/2026 08:11
+00cf74a3-ba53-47b0-b466-e2abbd6da0ea,account.kids,premium,51.95,18.83,high,low,7,spaceship,,,28/09/2026 06:17
 145207fa-1db9-4672-8c97-50d8e6926e67,apogamy.kids,available,7.98,29.98,medium,low,7,namecheap,,,19/09/2026 18:27
 cc169478-4616-4e9a-a5d4-e338345f95d3,circuitry.kids,premium,55,19.48,high,low,9,dynadot,,,28/09/2026 02:48
 dd9cd4b2-d898-4172-9c69-a663998d666d,koala.kids,premium,53.92,21.24,high,low,5,namesilo,,,
@@ -893,7 +916,7 @@ f25518f7-68f6-4bc5-b595-04a42b620a4d,coeval.kids,premium,53.92,21.24,medium,low,
 1f7c74a6-c7f6-44c7-9698-ae0700a83eef,fluorine.kids,premium,53.92,21.24,medium,low,8,namesilo,,,21/09/2026 00:03
 0d716a99-5f1e-4993-b694-ae7918c51a87,pierogi.kids,premium,53.92,21.24,high,low,7,namesilo,,,17/09/2026 14:55
 50b35b2c-2ee1-4a11-a6e3-b2a13b7d2b87,isotopic.kids,available,6.79,19.99,medium,low,8,namesilo,,,22/08/2026 11:26
-bf0f5008-6d25-4400-943c-0d53525e893c,graphic.kids,premium,62.5,22.5,high,low,7,name.com,,,20/08/2026 18:09
+bf0f5008-6d25-4400-943c-0d53525e893c,graphic.kids,premium,55,19.48,high,low,7,dynadot,,,28/09/2026 05:58
 30bb0cc0-fd7a-4069-b21d-3e6fa209ded6,doula.kids,available,7.98,29.98,high,low,5,namecheap,,,23/09/2026 21:09
 1949df8b-94b0-4706-b9c1-4a84e935108c,demanding.kids,premium,53.92,21.24,medium,low,9,namesilo,,,14/08/2026 01:06
 5b1e2f6d-84b8-4802-ab9d-2dea1216961c,conway.kids,available,9.99,33.99,high,low,6,name.com,,,25/09/2026 21:36
@@ -956,6 +979,7 @@ d16e55fd-4bec-417e-a9b2-102629d3ba2b,thereby.kids,premium,53.92,21.24,medium,low
 b72c6226-68e8-4bda-a415-c1ca001a8e58,architect.kids,premium,53.92,21.24,high,low,9,namesilo,,,20/09/2026 02:11
 0ffb30b6-23ec-43bd-8134-09034c3d69f0,tourists.kids,available,6.79,19.99,medium,low,8,namesilo,,,18/09/2026 07:30
 991ef2bf-6fed-4fd0-aea1-77a08279ff27,clickbait.kids,available,6.79,19.99,medium,low,9,namesilo,,,
+43070086-528a-4c32-ab9d-f29dc174bb76,johanna.kids,available,5.38,18.83,high,low,7,spaceship,,,28/09/2026 03:57
 7c681ac5-d20e-4446-a650-0c4014717ab0,disloyalty.kids,available,6.79,19.99,medium,low,10,namesilo,,,24/09/2026 22:47
 5d41a9ed-2c52-4106-a6b3-4ad92a2988ed,combined.kids,available,6.79,19.99,high,low,8,namesilo,,,12/08/2026 18:36
 512f6ae2-efbf-4d3c-8ec2-389effe6e194,dorset.kids,premium,51.95,18.83,medium,low,6,spaceship,,,27/09/2026 18:47
@@ -968,34 +992,10 @@ d7eb4ae1-71ad-4489-99fd-f48b7dc426a2,wyeth.kids,premium,65,23.4,high,low,5,namec
 2b1a39ed-b60a-475b-b856-2fb559855586,bastion.kids,premium,65,23.4,high,low,7,namecheap,,,22/09/2026 12:50
 66dbeaa6-5751-4dc5-b1a0-29887db142c7,arng.kids,available,6.79,19.99,medium,low,4,namesilo,,,20/09/2026 08:02
 573f781e-148d-43e0-b08b-efc6aa907904,buyer.kids,available,6.79,19.99,high,low,5,namesilo,,,
+4526ff2e-faaf-4463-b64f-f3391dfbb5f9,manipulate.kids,premium,65,23.4,high,low,10,namecheap,,,28/09/2026 05:48
 3b97ca6f-ed54-41af-b103-f2a7b9b9f437,adapa.kids,available,6.79,19.99,medium,low,5,namesilo,,,17/09/2026 06:23
 b6902247-8bf0-4e26-b71d-5e0c13f31466,nurtural.kids,available,6.79,19.99,medium,low,8,namesilo,,,03/09/2026 23:07
 0943d0b2-e9c4-4863-9b11-774bb7055384,bengali.kids,premium,53.92,21.24,medium,low,7,namesilo,,,09/08/2026 14:29
 beb27cad-ca17-4e38-b49f-272a2720fc2a,epistemic.kids,available,6.79,19.99,high,low,9,namesilo,,,17/08/2026 11:13
 263cf2da-ca31-4019-96e7-7f1842274502,alas.kids,premium,53.92,21.24,high,low,4,namesilo,,,13/09/2026 18:37
 c132e5bc-6e70-450c-a26d-f7aa597d1389,pectoral.kids,premium,53.92,21.24,medium,low,8,namesilo,,,08/09/2026 11:58
-9f5869b4-fe28-4a9d-bcd0-62dc71037a73,breakfasts.kids,available,6.79,19.99,medium,low,10,namesilo,,,20/09/2026 13:21
-fd7a239a-d7e1-4582-be55-0c2d3799aac6,lateral.kids,premium,53.92,21.24,high,low,7,namesilo,,,22/08/2026 20:34
-fcc7f3b4-5b74-43c5-b6d8-5318423a7c23,penny.kids,premium,375,,high,low,5,name.com,,,
-e35ec4f2-6571-47d3-ade0-b111cac9e679,angelology.kids,available,6.79,19.99,medium,low,10,namesilo,,,19/09/2026 06:02
-737aec6b-1ae0-4639-9a3b-bd2ec1f3288d,resurgent.kids,premium,53.92,21.24,high,low,9,namesilo,,,09/09/2026 13:53
-2e8e3325-64c0-49b1-864a-0eb27684b88b,parcel.kids,premium,53.92,21.24,high,low,6,namesilo,,,24/09/2026 11:15
-4d6e1ef4-f0b1-45f8-8525-e1cef189ae81,bangles.kids,available,7.98,29.98,medium,low,7,namecheap,,,20/09/2026 19:22
-03c0ec34-82d1-443e-ae0e-a87034bea782,hostelry.kids,premium,65,23.4,medium,low,8,namecheap,,,21/09/2026 02:26
-4c1f0eb4-ae82-4d77-898b-2575e9a000bd,consumer.kids,premium,375,,high,low,8,name.com,,,
-b4271f5e-0529-472d-af59-b6643e6a410f,palmae.kids,available,6.79,19.99,medium,low,6,namesilo,,,20/09/2026 03:32
-d553f0e9-ca3d-4ef9-98fb-434bef0d10ca,slipping.kids,available,6.79,19.99,medium,low,8,namesilo,,,10/09/2026 11:05
-c89965cf-e60d-48a5-a3ec-f9582818e550,cheerful.kids,premium,53.92,21.24,high,low,8,namesilo,,,12/08/2026 03:41
-3da77b1e-73ea-4a2f-8fba-49d748d71f83,salty.kids,premium,53.92,21.24,high,low,5,namesilo,,,19/09/2026 11:13
-ac4febf3-c102-4294-afbb-2433f8006f79,aegir.kids,available,6.79,19.99,medium,low,5,namesilo,,,14/08/2026 22:18
-8dbc8ced-c83e-4e7c-aa6f-2f4661164f55,risque.kids,available,7.98,29.98,medium,low,6,namecheap,,,18/08/2026 20:02
-0fd65f41-c059-4af9-85e2-f242b50c67d9,irani.kids,available,6.79,19.99,high,low,5,namesilo,,,22/08/2026 09:42
-68525a7a-c47f-42a0-ac0c-e98e275fa253,brains.kids,available,6.79,19.99,high,low,6,namesilo,,,25/09/2026 18:40
-7b880097-0290-40a9-8541-865a8ea793a5,boyne.kids,available,6.79,19.99,medium,low,5,namesilo,,,22/09/2026 14:51
-452b5f84-6321-4515-ac01-73ff4a59fce0,hilarious.kids,premium,375,22.5,high,low,9,name.com,,,21/08/2026 09:21
-2cf3fb95-2ac6-40d0-a36c-d2a14327dd6d,battered.kids,available,7.98,29.98,medium,low,8,namecheap,,,22/09/2026 18:12
-a9e7daf9-c033-4cbc-aaaf-133b89cc61da,humanities.kids,available,6.79,19.99,high,low,10,namesilo,,,
-2d714794-40ce-4d4a-bfc3-4167a982a0bb,trifle.kids,premium,53.92,21.24,high,low,6,namesilo,,,13/09/2026 08:07
-2fef9cf7-7e1b-4fff-a2e6-f31462408db5,dastardly.kids,available,9.99,33.99,medium,low,9,name.com,,,13/08/2026 18:31
-59b3a6dc-50d9-4c3a-bf87-675799574ac1,updated.kids,available,6.79,19.99,medium,low,7,namesilo,,,18/09/2026 06:09
-061bd1a2-ecb4-4c86-a1d2-36742e153a81,lengthy.kids,premium,53.92,21.24,medium,low,7,namesilo,,,14/08/2026 18:32

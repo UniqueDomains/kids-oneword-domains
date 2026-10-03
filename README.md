@@ -1,10 +1,10 @@
-# Available .KIDS One-Word Domains (32,818)
+# Available .KIDS One-Word Domains (35,132)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C818%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C132%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kids one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,818 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,132 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,818 domains · **Median ask:** $56.26 · **High-demand under $2,500:** 56
+**Public extract:** 1,000 rows · **Live catalog:** 35,132 domains · **Median ask:** $54.44 · **High-demand under $2,500:** 62
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/kids`
 **Best for:** founders, investors, studios
 
@@ -69,20 +69,20 @@ print(df.head())
 | ado.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
 | aia.kids      | available | $7.98     | $29.98        | high           | low    | 3      | namecheap             |
 | ugly.kids     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC      |
-| btu.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
+| ccd.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
 | ani.kids      | available | $6.79     | $19.99        | high           | low    | 3      | namesilo              |
 | anderson.kids | resell    | —         | —             | high           | medium | 8      | GoDaddy.com, LLC      |
-| ccd.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
-| bmt.kids      | available | $5.38     | $18.83        | high           | low    | 3      | spaceship             |
 | ccf.kids      | premium   | $310.70   | $18.83        | high           | low    | 3      | spaceship             |
-| cnt.kids      | available | $6.79     | $19.99        | high           | low    | 3      | namesilo              |
+| bmt.kids      | available | $5.38     | $18.83        | high           | low    | 3      | spaceship             |
 | ger.kids      | premium   | $51.95    | $18.83        | high           | low    | 3      | spaceship             |
-| cpc.kids      | available | $5.57     | $19.48        | high           | low    | 3      | dynadot               |
-| lap.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
-| cxx.kids      | available | $6.79     | $19.99        | high           | low    | 3      | namesilo              |
+| boi.kids      | available | $5.38     | $18.83        | high           | low    | 3      | spaceship             |
 | lay.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
+| cnt.kids      | available | $6.79     | $19.99        | high           | low    | 3      | namesilo              |
+| log.kids      | premium   | $55       | $19.48        | high           | medium | 3      | dynadot               |
+| cxx.kids      | available | $6.79     | $19.99        | high           | low    | 3      | namesilo              |
+| mop.kids      | premium   | $51.95    | $18.83        | high           | low    | 3      | spaceship             |
 | deo.kids      | available | $6.79     | $19.99        | high           | low    | 3      | namesilo              |
-| lip.kids      | premium   | $53.92    | $21.24        | high           | low    | 3      | namesilo              |
+| nee.kids      | premium   | $53.92    | $21.24        | medium         | low    | 3      | namesilo              |
 | fdp.kids      | available | $5.38     | $18.83        | medium         | low    | 3      | spaceship             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,818 live domains                        |
+| 1,000-row public sample | 35,132 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 56 high-demand names under $2,500          |
+| Basic exported fields   | 62 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIDS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
